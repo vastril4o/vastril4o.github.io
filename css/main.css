@@ -15,7 +15,7 @@
 }
 
 .jumbo_title {
-    text-shadow:3px 2px 0 rgba(0,0,0,0.3);
+    text-shadow:3px 3px 0 rgba(0,0,0,0.3);
     width:295px;
 }
 
@@ -23,16 +23,14 @@
     width:265px;
 }
 
-.jumbo_img {
-    width:192px;
-    height:192px;
-}
-
 .jumbo_btn {
     width:165px;
 }
 
-.alert-light {
-    background-color: #f8f9fa;
-    border-color: #e9ecef;
+.badge-light {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.card-shadow {
+    box-shadow: 7px 10px rgba(0, 0, 0, 0.2);
 }
