@@ -6,51 +6,51 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="256px"
-   height="256px"
-   viewBox="0 0 256 256"
+   id="SVGRoot"
    version="1.1"
-   id="SVGRoot">
+   viewBox="0 0 256 256"
+   height="256px"
+   width="256px">
   <defs
      id="defs10">
     <linearGradient
        id="linearGradient72">
       <stop
-         id="stop68"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         id="stop68" />
       <stop
-         id="stop70"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
+         id="stop70" />
     </linearGradient>
     <linearGradient
        id="linearGradient64">
       <stop
-         id="stop60"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         id="stop60" />
       <stop
-         id="stop62"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
+         id="stop62" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="256"
-       x2="128"
-       y1="88"
-       x1="128"
+       xlink:href="#linearGradient64"
        id="linearGradient66"
-       xlink:href="#linearGradient64" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="256"
-       x2="128"
-       y1="88"
        x1="128"
+       y1="88"
+       x2="128"
+       y2="256"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient72"
        id="linearGradient74"
-       xlink:href="#linearGradient72" />
+       x1="128"
+       y1="88"
+       x2="128"
+       y2="256"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata13">
@@ -65,19 +65,19 @@
     </rdf:RDF>
   </metadata>
   <path
-     id="path32"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 0,176 64,-32 64,64 64,-120 64,40"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     id="path32" />
   <path
-     id="path38"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 0,128 64,56 64,-8 64,24 64,-112"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     id="path38" />
   <path
-     id="path40"
+     style="fill:url(#linearGradient74);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
      d="M 0,256 H 256 V 128 L 192,88 128,208 64,144 0,176 Z"
-     style="fill:url(#linearGradient74);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0" />
+     id="path40" />
   <path
-     id="path42"
+     style="fill:url(#linearGradient66);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
      d="M 0,128 V 256 H 256 V 88 l -64,112 -64,-24 -64,8 z"
-     style="fill:url(#linearGradient66);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0" />
+     id="path42" />
 </svg>

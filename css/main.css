@@ -16,10 +16,46 @@
     display:inline-block;
 }
 
-.carousel-item {
-    height: 300px;
+.carousel {
+    min-height: 360px;
 }
 
-.card {
-    min-height: 400px;
+
+.bg-circle {
+    display:block;
+    background: #e9ecef;
+    border-radius: 50%;
+}
+
+
+.hover-container {
+    position: relative;
+    width: 100%;
+    background-color: #dc3545;
+}
+
+.hover-img {
+    display: block;
+    width: 100%;
+}
+
+.hover-svg {
+    display: block;
+    width: 100%;
+}
+
+.overlay {
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    transition: 0.5s ease;
+    background-color: #fff;
+}
+
+.hover-container:hover .overlay {
+    opacity: 0.8;
 }
