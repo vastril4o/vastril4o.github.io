@@ -45,7 +45,6 @@
     animation: blink 0.7s infinite, translateStars 0.7s infinite;
 }
 
-
 /* chart */
 #path32 {
     stroke-dasharray: 128;
