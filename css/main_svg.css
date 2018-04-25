@@ -85,3 +85,22 @@
     stroke-dashoffset: 288;
     animation: draw 1.7s infinite;
 }
+
+/* logo */
+#ellipse1390 {
+    stroke-dasharray: 250;
+    stroke-dashoffset: 500;
+    animation: draw 1s infinite, blink 2s infinite;
+}
+
+#ellipse1388 {
+    stroke-dasharray: 250;
+    stroke-dashoffset: 500;
+    animation: draw 3s infinite, blink 4s infinite;
+}
+
+#path1384 {
+    stroke-dasharray: 250;
+    stroke-dashoffset: 500;
+    animation: draw 2s infinite, blink 3s infinite;
+}
