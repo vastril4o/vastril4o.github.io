@@ -1,0 +1,57 @@
+<svg
+   width="256px"
+   height="256px"
+   viewBox="0 0 256 256"
+   id="SVGAtom">
+  <g
+     id="atom">
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#6f7c91;stroke-width:3.77952756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1384"
+       cx="114.01272"
+       cy="140.60263"
+       rx="120.69129"
+       ry="47.987293"
+       transform="rotate(-5.961885)" />
+    <circle
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:#6f7c91;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1386"
+       cx="127.48801"
+       cy="128"
+       r="21.645159" />
+    <ellipse
+       ry="47.987293"
+       rx="120.69129"
+       cy="-17.488997"
+       cx="180.17252"
+       id="ellipse1388"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#6f7c91;stroke-width:3.77952756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(50.544221)" />
+    <ellipse
+       transform="rotate(119.1278)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#6f7c91;stroke-width:3.77952756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse1390"
+       cx="49.507431"
+       cy="-174.11781"
+       rx="120.69129"
+       ry="47.987293" />
+    <circle
+       style="opacity:1;fill:#d35f5f;fill-opacity:1;stroke:#6f7c91;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1392"
+       cx="200"
+       cy="56"
+       r="8" />
+    <circle
+       style="opacity:1;fill:#5fd38d;fill-opacity:1;stroke:#6f7c91;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1394"
+       cx="32"
+       cy="108"
+       r="8" />
+    <circle
+       style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#6f7c91;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1396"
+       cx="90"
+       cy="160"
+       r="8" />
+  </g>
+</svg>
