@@ -1,7 +1,6 @@
 @keyframes blink {
     0% { opacity: 0; }
-    20% { opacity: 1; }
-    80% { opacity: 1; }
+    75% { opacity: 1; }
     100% { opacity: 0; }
 }
 
@@ -31,7 +30,7 @@
     animation: draw 1s infinite, blink 1s infinite;
 }
 
-#path221,  #path115{
+#path221,  #path115 {
     stroke-dasharray: 50;
     stroke-dashoffset: 50;
     animation: draw 1.3s infinite, blink 1.3s infinite;
@@ -86,7 +85,7 @@
     animation: draw 1.7s infinite;
 }
 
-/* logo */
+/* atom */
 #ellipse1390 {
     stroke-dasharray: 270;
     stroke-dashoffset: 540;
