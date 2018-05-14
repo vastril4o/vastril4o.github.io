@@ -69,13 +69,11 @@
     transition: background-color 100ms linear;
 }
 
-/* cube */
-.cube {
-    background-image: url("../img/cube.png");
-    height: 100%; 
-    width: 100%;
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.number-circle {
+    width: 36px;
+    line-height: 32px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 18px;
+    border: 2px solid #666;
 }

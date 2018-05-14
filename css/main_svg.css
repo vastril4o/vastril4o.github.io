@@ -22,26 +22,22 @@
     100% { transform: translate(200px, 0); }
 }
 
+@keyframes translateBubble {
+    0% { transform: translate(0, 0) }
+    100% { transform: translate(0, -100px) }
+}
+
 /* rocket */
 /* fire */
-#path123 {
-    stroke-dasharray: 50;
-    stroke-dashoffset: 50;
-    animation: draw 1s infinite, blink 1s infinite;
+#path1726, #path1728 {
+    animation: blink 2.3s infinite;
 }
-
-#path221,  #path115 {
-    stroke-dasharray: 50;
-    stroke-dashoffset: 50;
-    animation: draw 1.3s infinite, blink 1.3s infinite;
-}
-
 /* stars */
-#path57, #path59, #path67 {
+#path1749, #path1751, #path1753 {
     animation: blink 2.1s infinite, translateStars 2.1s infinite;
 }
-#path63, #path65, #path61 {
-    animation: blink 0.7s infinite, translateStars 0.7s infinite;
+#path1755, #path1757, #path1759 {
+    animation: blink 0.9s infinite, translateStars 0.9s infinite;
 }
 
 /* chart */
@@ -85,6 +81,12 @@
     animation: draw 1.7s infinite;
 }
 
+#path1999 {
+    stroke-dasharray: 160;
+    stroke-dashoffset: 320;
+    animation: draw 3s infinite;
+}
+
 /* atom */
 #ellipse1390 {
     stroke-dasharray: 270;
@@ -102,4 +104,33 @@
     stroke-dasharray: 270;
     stroke-dashoffset: 540;
     animation: draw 1.3s infinite, blink 2.6s infinite;
+}
+
+/* lab */
+/* bubbles */
+#path2229 {
+    animation: translateBubble 0.7s infinite;
+}
+
+#path2231 {
+    animation: translateBubble 1s infinite;
+}
+
+#path2233 {
+    animation: translateBubble 0.8s infinite;
+}
+
+#path2235 {
+    animation: translateBubble 0.6s infinite;
+}
+
+#path2239 {
+    animation: translateBubble 0.9s infinite;
+}
+/* air */
+#path2376 {
+    animation: blink 1.5s infinite, translateBubble 1.5s infinite;
+}
+#path2378 {
+    animation: blink 1.3s infinite, translateBubble 1.3s infinite;
 }
