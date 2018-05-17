@@ -25,6 +25,7 @@
     display:block;
     background: #e9ecef;
     border-radius: 50%;
+    border: 4px solid #ffffff;
 }
 
 
@@ -52,28 +53,9 @@
     right: 0;
     opacity: 0;
     transition: 0.5s ease;
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 .hover-container:hover .overlay {
     opacity: 0.9;
-}
-
-.navbar-brand:hover { 
-    background-color: rgba(255,255,255,0.1);
-    transition: background-color 100ms linear;
-}
-
-.navbar-brand { 
-    background-color: none;
-    transition: background-color 100ms linear;
-}
-
-.number-circle {
-    width: 36px;
-    line-height: 32px;
-    border-radius: 50%;
-    text-align: center;
-    font-size: 18px;
-    border: 2px solid #666;
 }

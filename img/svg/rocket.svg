@@ -15,7 +15,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="rocket2.svg">
+   sodipodi:docname="rocket.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -105,38 +105,26 @@
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="path1749"
-       cx="44.384003"
-       cy="123.04"
-       r="4" />
-    <circle
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976383;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="path1751"
-       cx="220.192"
-       cy="83.68"
-       r="4" />
-    <circle
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="path1753"
-       cx="107.936"
-       cy="20.191999"
+       cx="52.576004"
+       cy="36.512001"
        r="4" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="path1755"
        cx="172"
-       cy="115.68002"
+       cy="19.936024"
        r="4" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.51968503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="path1757"
-       cx="71.360001"
-       cy="72.703995"
+       cx="79.552002"
+       cy="24.575994"
        r="8" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.51968503;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="path1759"
-       cx="192.06398"
-       cy="32.192001"
+       cx="200.25598"
+       cy="32.703999"
        r="8" />
   </g>
 </svg>
