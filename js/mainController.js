@@ -7,8 +7,6 @@ angular.module('mainApp', [])
     // init
     this.$onInit = function () {
       data.theme_dark = afterNight();
-
-
     };
 
     // function
@@ -18,14 +16,5 @@ angular.module('mainApp', [])
         return true;
       }
     };
-
-    $http({
-      method: 'GET',
-      url: 'api/url-api'
-    }).then(function (response) {
-
-    }, function (error) {
-
-    });
 
   });
